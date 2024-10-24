@@ -1,0 +1,1 @@
+# WSBIM2122_GitHub_training
