@@ -1,2 +1,4 @@
 This is a simple text file.
 Not simple enough
+
+Nouvelle ligne
